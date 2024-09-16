@@ -257,6 +257,7 @@
         "group": "vashon_island",
         "attributions": "Test attributions",
         "displaySeries": true,
+        "largeSlider": true,
         "defaultSeriesLayerIndex": 6,
         "layers": [
           {
