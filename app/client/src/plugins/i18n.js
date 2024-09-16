@@ -2,15 +2,15 @@ import Vue from 'vue';
 import VueI18n from 'vue-i18n';
 import es from '../locales/es.json';
 import en from '../locales/en.json';
-import pt from '../locales/pt.json';
+import de from '../locales/de.json';
 
 Vue.use(VueI18n);
 
 function loadLocaleMessages() {
   const languagesSorted = {
     en,
+    de,
     es,
-    pt,
   };
 
   const messages = {};

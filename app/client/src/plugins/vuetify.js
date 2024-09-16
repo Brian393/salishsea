@@ -10,6 +10,13 @@ const vuetify = new Vuetify({
   icons: {
     iconfont: 'md', // default - only for display purposes
   },
+  theme: {
+    themes: {
+      light: {
+        anchor: '#A8CE50',
+      },
+    },
+  },
   lang: {
     t: (key, ...params) => VueI18n.t(key, params),
   },
