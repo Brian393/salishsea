@@ -1,7 +1,15 @@
 {
   "app": {
-    "title": "Biocultural restoration",
-    "tagline": "in the Salish Sea",
+    "title": {
+      "en": "Biocultural restoration",
+      "de": "Biokulturelle Wiederherstellung",
+      "es": "Restauración biocultural"
+      },
+    "tagline": {
+      "en": "in the Salish Sea",
+      "de": "im Salish-Meer",
+      "es": "en el Mar Salish"
+      },
     "projectWebsite": "",
     "color": {
       "primary": "#15313d",
@@ -606,7 +614,11 @@
     },
     "defaultActiveGroup": "vashon_island",
     "groupTitles": {
-      "vashon_island": "Vashon/Maury Island"
+      "vashon_island": {
+        "en": "Vashon/Maury Island",
+        "es": "Isla Vashon/Maury",
+        "de": "Vashon/Maury-Insel"
+      }
     },
     "regionTitles": {
       "local": "local",
