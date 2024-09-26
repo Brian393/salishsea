@@ -7,8 +7,8 @@
     },
     "tagline": {
       "en": "in the Salish Sea",
-      "de": "im Salish-Meer",
-      "es": "en el Mar Salish"
+      "de": "im Salish Sea",
+      "es": "al Mar de los Salish"
     },
     "projectWebsite": "",
     "color": {
@@ -617,7 +617,7 @@
       "vashon_island": {
         "en": "Vashon/Maury Island",
         "es": "Isla Vashon/Maury",
-        "de": "Vashon/Maury-Insel"
+        "de": "Vashon/Maury Island"
       }
     },
     "regionTitles": {
